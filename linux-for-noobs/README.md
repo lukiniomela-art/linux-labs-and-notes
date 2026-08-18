@@ -2,27 +2,30 @@
 
 Comprehensive introduction to Linux systems administration and command line basics.
 
-## 🧪 Course Curriculum & Progress (8/25 Labs Completed)
+## 🧪 Course Curriculum & Progress (16/25 Labs Completed)
 
-### 🟢 Completed Labs
-- [x] **Create Personalized Terminal Greeting** — Customizing terminal profiles & startup scripts (`.bashrc` / `.zshrc`).
-- [x] **Get Help on Linux Commands** — Using `man`, `--help`, `info`, `whatis`.
-- [x] **Delete and Move Files** — Advanced file handling with `mv`, `rm -rf`.
-- [x] **Add New User and Group** — User management (`useradd`, `groupadd`, `usermod`).
-- [x] **Find a File** — File searching techniques with `find`, `locate`, `which`.
-- [x] **Configure Linux Environment Variables** — Managing `$PATH`, `export`, `env`.
-- [x] **Backup System Log** — Archiving & compression using `tar`, `gzip`, `bzip2`.
-- [x] **Analyzing Disk Usage** — Storage & disk analysis using `df -h`, `du -sh`, `fdisk`.
-
----
-
-### ⏳ Upcoming Labs
-- [ ] **Space Battle Data Pipeline** (Sequence Control & Pipelines: `|`, `&&`, `||`)
-- [ ] **Analyzing PATH Directories** (Simple Text Processing)
-- [ ] **Analyze Historical Commands** (Data Stream Redirection: `>`, `>>`, `<`)
-- [ ] **Extracting Mails and Numbers** (Text Processing & RegEx: `grep`, `sed`, `awk`)
-- [ ] **Installing and Removing Packages** (Package Management: `apt`, `dpkg`)
-- [ ] *...and 12 more upcoming labs!*
+### 🟢 Completed Labs (16/25)
+1. [x] **Getting Started with Linux**
+2. [x] **Create Personalized Terminal Greeting**
+3. [x] **Basic File Operations in Linux**
+4. [x] **Get Help on Linux Commands**
+5. [x] **Delete and Move Files**
+6. [x] **Linux User Group and File Permissions**
+7. [x] **Add New User and Group**
+8. [x] **File and Directory Operations**
+9. [x] **Find a File**
+10. [x] **Environment Variables in Linux**
+11. [x] **Configure Linux Environment Variables**
+12. [x] **File Packaging and Compression**
+13. [x] **Backup System Log**
+14. [x] **File System and Disk Management**
+15. [x] **Analyzing Disk Usage**
+16. [x] **Sequence Control and Pipeline**
 
 ---
-*Status: 8/25 Completed — Currently Active*
+
+### ⏳ Upcoming Labs (9 Remaining)
+- [ ] *Labs 17 through 25 in progress...*
+
+---
+*Status: 16/25 Completed — Currently Active*
