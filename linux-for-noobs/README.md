@@ -1,31 +1,47 @@
 # 🐧 Linux for Noobs — Course Progress
 
-Comprehensive introduction to Linux systems administration and command line basics.
+Comprehensive introduction to Linux systems administration, text processing, and system management.
 
-## 🧪 Course Curriculum & Progress (16/25 Labs Completed)
+## 🧪 Course Curriculum & Progress (24/37 Labs Completed)
 
-### 🟢 Completed Labs (16/25)
-1. [x] **Getting Started with Linux**
-2. [x] **Create Personalized Terminal Greeting**
-3. [x] **Basic File Operations in Linux**
-4. [x] **Get Help on Linux Commands**
-5. [x] **Delete and Move Files**
-6. [x] **Linux User Group and File Permissions**
-7. [x] **Add New User and Group**
-8. [x] **File and Directory Operations**
-9. [x] **Find a File**
-10. [x] **Environment Variables in Linux**
-11. [x] **Configure Linux Environment Variables**
-12. [x] **File Packaging and Compression**
-13. [x] **Backup System Log**
-14. [x] **File System and Disk Management**
-15. [x] **Analyzing Disk Usage**
-16. [x] **Sequence Control and Pipeline**
+### 🟢 Completed Modules & Labs (24/37)
+
+* **Linux Basics and File Management**
+  - [x] Getting Started with Linux
+  - [x] Save a Terminal Banner
+  - [x] Basic File Operations in Linux
+  - [x] Get Help on Linux Commands
+  - [x] Archive a Draft File
+  - [x] Linux User Group and File Permissions
+  - [x] Onboard a Practice User
+  - [x] File and Directory Operations
+  - [x] Find and Protect a Configuration File
+
+* **Environment and Storage Management**
+  - [x] Environment Variables in Linux
+  - [x] Persist a Project Environment Variable
+  - [x] File Packaging and Compression
+  - [x] Back Up a Log Directory
+  - [x] File System and Disk Management
+  - [x] Rank Directory Usage
+
+* **Shell Tools and Text Processing**
+  - [x] Command Sequences and Pipelines
+  - [x] Select Sensor Alert Events
+  - [x] Combine and Transform Text Files
+  - [x] Normalize a PATH-Style List
+  - [x] Text Processing with Regular Expressions
+  - [x] Extract Unique Email Addresses
+  - [x] Data Stream Redirection
+  - [x] Extract Programs from Command History
+
+* **System and Network Administration**
+  - [x] System Information and Process Management
 
 ---
 
-### ⏳ Upcoming Labs (9 Remaining)
-- [ ] *Labs 17 through 25 in progress...*
+### ⏳ Upcoming Labs (13 Remaining)
+- [ ] *Stop a Runaway Process, Software Installation, Services, Networking & SSH labs in progress...*
 
 ---
-*Status: 16/25 Completed — Currently Active*
+*Status: 24/37 Completed — Currently Active*
