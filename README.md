@@ -10,7 +10,7 @@ Description: *My personal journey in Linux SysAdmin and Bash scripting — docum
 | Course / Subject | Status | Notes & Labs |
 | :--- | :--- | :--- |
 | **Quick Start with Linux** | ✅ Completed (10/10) | [Labs Log](./quick-start-with-linux/) |
-| **Linux for Noobs** | 🔄 In Progress (16/25) | [Labs Log](./linux-for-noobs/) |
+| **Linux for Noobs** | 🔄 In Progress (24/37) | [Labs Log](./linux-for-noobs/) |
 
 ---
 *Created as part of my practical SysAdmin learning path.*
