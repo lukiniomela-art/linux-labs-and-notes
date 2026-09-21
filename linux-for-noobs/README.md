@@ -1,10 +1,10 @@
 # 🐧 Linux for Noobs — Course Progress
 
-Comprehensive introduction to Linux systems administration, text processing, and system management.
+Comprehensive introduction to Linux systems administration, text processing, network management, and automation.
 
-## 🧪 Course Curriculum & Progress (24/37 Labs Completed)
+## 🧪 Course Curriculum & Progress (37/37 Labs Completed) ✅
 
-### 🟢 Completed Modules & Labs (24/37)
+### 🟢 Completed Modules & Labs (37/37)
 
 * **Linux Basics and File Management**
   - [x] Getting Started with Linux
@@ -37,11 +37,22 @@ Comprehensive introduction to Linux systems administration, text processing, and
 
 * **System and Network Administration**
   - [x] System Information and Process Management
+  - [x] Stop a Runaway Process
+  - [x] Software Installation on Linux
+  - [x] Install a Local Monitoring Package
+  - [x] Managing Services and System Logs
+  - [x] Recover a Failed Service
+  - [x] Linux Networking and Firewall Basics
+  - [x] Correct a Service Bind Address
+  - [x] Remote Access and File Transfer with SSH
+  - [x] Upload a Configuration with SCP
+
+* **Automation and Backup**
+  - [x] Shell Scripting Fundamentals
+  - [x] Write a Log Error Summary Script
+  - [x] Scheduled Backup and Recovery
+  - [x] Restore a Configuration from Backup
 
 ---
 
-### ⏳ Upcoming Labs (13 Remaining)
-- [ ] *Stop a Runaway Process, Software Installation, Services, Networking & SSH labs in progress...*
-
----
-*Status: 24/37 Completed — Currently Active*
+*Status: 37/37 Completed — Course Finished! 🏆*
