@@ -2,7 +2,7 @@
 
 Hands-on scenario-based labs focusing on command-line proficiency, text processing, search utilities, and system monitoring.
 
-## 🧪 Course Curriculum & Progress (14/41 Labs Completed)
+## 🧪 Course Curriculum & Progress (22/41 Labs Completed)
 
 ### 📂 File System Operations (10/10 Completed) ✅
 - [x] **Linux ls Command: Content Listing**
@@ -18,28 +18,28 @@ Hands-on scenario-based labs focusing on command-line proficiency, text processi
 
 ---
 
-### 📚 File Content Operations (4/8 Completed) 🔄
+### 📚 File Content Operations (8/8 Completed) ✅
 - [x] **Linux cat Command: File Concatenating**
 - [x] **Linux more Command: File Scrolling**
 - [x] **Linux less Command: File Paging**
 - [x] **Viewing Log and Configuration Files in Linux**
-- [ ] **Linux head Command: File Beginning Display**
-- [ ] **Linux tail Command: File End Display**
-- [ ] **Linux nl Command: Line Numbering**
-- [ ] **Rapid Threat Detection**
+- [x] **Linux head Command: File Beginning Display**
+- [x] **Linux tail Command: File End Display**
+- [x] **Linux nl Command: Line Numbering**
+- [x] **Rapid Threat Detection**
 
 ---
 
-### 🕵️ File Search (0/4 Completed) ⏳
-- [ ] **Linux which Command: Command Locating**
-- [ ] **Linux whereis Command: File and Command Finding**
-- [ ] **Linux find Command: File Searching**
-- [ ] **Discover Critical System Resources**
+### 🕵️ File Search (4/4 Completed) ✅
+- [x] **Linux which Command: Command Locating**
+- [x] **Linux whereis Command: File and Command Finding**
+- [x] **Linux find Command: File Searching**
+- [x] **Discover Critical System Resources**
 
 ---
 
-### 🎨 Text Processing (0/13 Completed) ⏳
-- [ ] **Linux grep Command: Pattern Searching**
+### 🎨 Text Processing (0/13 Completed) 🔄
+- [ ] **Linux grep Command: Pattern Searching** — *Next Up!*
 - [ ] **Needle in the Haystack**
 - [ ] **Linux wc Command: Text Counting**
 - [ ] **Linux cut Command: Text Cutting**
@@ -64,4 +64,4 @@ Hands-on scenario-based labs focusing on command-line proficiency, text processi
 - [ ] **Linux time Command: Command Timing**
 
 ---
-*Status: 14/41 Completed — Currently Active*
+*Status: 22/41 Completed — Currently Active*
